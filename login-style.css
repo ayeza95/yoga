@@ -15,7 +15,7 @@ html,body{
     justify-content: center;
 }
 body{
-    background-image: url(pexel.jpg);
+    background-image: url(login-bg.jpg);
     background-size: cover;
 }
 #box{
